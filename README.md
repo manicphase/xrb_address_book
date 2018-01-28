@@ -7,6 +7,8 @@ I'd recommend creating a new wallet, because publicly linking your screen name t
 To add your address to this list:
 Send a DM containing only your xrb address to /u/xrb_address_book on reddit. The contents of the subject line will be ignored.
 
+To change your address, just do the same thing with your new one and the old one will be overwritten.
+
 The inbox of the xrb_address_book account will not be monitored by humans and any messages that do not fit the above criteria will not be seen.
 
 
