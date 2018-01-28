@@ -1,8 +1,10 @@
 # xrb_address_book
-(bot controlled) list of reddit users xrb addresses
+(bot controlled) list of reddit users xrb addresses.
+
+Tipbots are an effort to use. I want to make them better. Step one of this is to make it easier to find where to send your tip to.
 
 ## users
-I'd recommend creating a new wallet, because publicly linking your screen name to an account that holds a significant amount of cash might make you a target for jerks.
+**I'd recommend creating a new wallet, because publicly linking your screen name to an account that holds a significant amount of cash might make you a target for jerks.**
 
 To add your address to this list:
 Send a DM containing only your xrb address to [/u/xrb_address_book](https://www.reddit.com/user/xrb_address_book) on reddit. The contents of the subject line will be ignored.
